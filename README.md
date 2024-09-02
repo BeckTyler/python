@@ -6,4 +6,4 @@ Period: January - June 2024
 
 ## Business Statistics
 
-*** [
+*** (https://github.com/BeckTyler/python/blob/main/Tyler_Beck_E_News_Express.ipynb)
